@@ -17,10 +17,25 @@ Answer - there are 4 scopes in Python, built-in, global scope, enclosing scope, 
 Answer - the variable calls are local to the funtion, that is, the output will be calculated based on the variable declared within the function
 
 7. What is the concept of a return value? Is it possible to have a return value in an expression?
+Answer - The concept of return is to output a function. it works just like print function but with well defined output type. it doesn't work in expression.
+
 8. If a function does not have a return statement, what is the return value of a call to that function?
+Answer - it returns nothing. No error but the funtion will not return any value
+
 9. How do you make a function variable refer to the global variable?
+Answer - this happens when global keyword is used within a function to reference a global variable.
+
 10. What is the data type of None?
+Answer - this is nonetype data type in which the output is of no type. This is the output returned when print function is used within a function.
+
 11. What does the sentence import areallyourpetsnamederic do?
+Answer - this is not a python code but it does imports a module called areallyourpetsnamederic
+
 12. If you had a bacon() feature in a spam module, what would you call it after importing spam?
+Answer - spam.bacon()
+
 13. What can you do to save a programme from crashing if it encounters an error?
+answer - apply a try clause on the area of code where the error was generated.
+
 14. What is the purpose of the try clause? What is the purpose of the except clause?
+Answer - try takes on error prone code while except takes on the code that generate error.
