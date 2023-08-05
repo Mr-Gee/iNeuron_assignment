@@ -1,0 +1,26 @@
+1. Why are functions advantageous to have in your programs?y
+answer - funtions are advantageous in program because it can be used as many times as need in the program. it can be called globally and/or locally
+
+2. When does the code in a function run: when it is specified or when it is called?
+Answer - code in a function runs when it is called
+
+3. What statement creates a function?
+Answer - def
+
+4. What is the difference between a function and a function call?
+Answer - function takes the parameters while function call takes argument. Also, function does not run until function call is made.
+
+5. How many global scopes are there in a Python program? How many local scopes?
+Answer - there are 4 scopes in Python, built-in, global scope, enclosing scope, and local scope. in this list of scope, enclosing scope, and local scope are local while built-in and global scope are global scope
+
+6. What happens to variables in a local scope when the function call returns?
+Answer - the variable calls are local to the funtion, that is, the output will be calculated based on the variable declared within the function
+
+7. What is the concept of a return value? Is it possible to have a return value in an expression?
+8. If a function does not have a return statement, what is the return value of a call to that function?
+9. How do you make a function variable refer to the global variable?
+10. What is the data type of None?
+11. What does the sentence import areallyourpetsnamederic do?
+12. If you had a bacon() feature in a spam module, what would you call it after importing spam?
+13. What can you do to save a programme from crashing if it encounters an error?
+14. What is the purpose of the try clause? What is the purpose of the except clause?
